@@ -1,11 +1,19 @@
 {
   "name": "exel",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"hello"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Evgeny Shevtsov <1jony128@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1jony128/exel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1jony128/exel/issues"
+  },
+  "homepage": "https://github.com/1jony128/exel#readme",
+  "description": ""
 }
